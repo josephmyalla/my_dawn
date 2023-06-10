@@ -216,6 +216,12 @@
       "settings": {
         "title": ""
       }
+    },
+    "aaef7b8e-3a3c-4a56-a5fd-20a55513eb5c": {
+      "type": "image-carousel",
+      "settings": {
+        "title": ""
+      }
     }
   },
   "order": [
@@ -225,6 +231,7 @@
     "collage",
     "video",
     "multicolumn",
-    "e41efb0a-5956-429d-ab30-533dbddd2c5d"
+    "e41efb0a-5956-429d-ab30-533dbddd2c5d",
+    "aaef7b8e-3a3c-4a56-a5fd-20a55513eb5c"
   ]
 }
