@@ -674,6 +674,15 @@ video {
   background-color: rgb(127 29 29 / var(--tw-bg-opacity));
 }
 
+.bg-red-500 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(239 68 68 / var(--tw-bg-opacity));
+}
+
+.p-60 {
+  padding: 15rem;
+}
+
 .text-7xl {
   font-size: 4.5rem;
   line-height: 1;
