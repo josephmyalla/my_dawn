@@ -640,10 +640,6 @@ video {
   justify-content: center;
 }
 
-.self-center {
-  align-self: center;
-}
-
 .truncate {
   overflow: hidden;
   text-overflow: ellipsis;
