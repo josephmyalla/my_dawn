@@ -580,6 +580,10 @@ video {
   isolation: isolate;
 }
 
+.m-8 {
+  margin: 2rem;
+}
+
 .block {
   display: block;
 }
