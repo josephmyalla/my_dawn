@@ -219,8 +219,9 @@
     },
     "aaef7b8e-3a3c-4a56-a5fd-20a55513eb5c": {
       "type": "image-carousel",
+      "disabled": true,
       "settings": {
-        "title": ""
+        "title": "Image Carousel"
       }
     }
   },
