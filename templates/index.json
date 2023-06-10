@@ -213,6 +213,31 @@
     },
     "e41efb0a-5956-429d-ab30-533dbddd2c5d": {
       "type": "image-carousel",
+      "blocks": {
+        "69ff548c-4b29-44fc-a68d-d1056929d3ea": {
+          "type": "images",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/online-shopping-credit-cards.jpg"
+          }
+        },
+        "6eb9daa8-837f-4908-a540-883334e9fb8a": {
+          "type": "images",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/knife-slices-a-zucchini-in-half.jpg"
+          }
+        },
+        "6ad253d4-9b73-4fcb-91bd-a029c45172fd": {
+          "type": "images",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/small-business-open-sign.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "69ff548c-4b29-44fc-a68d-d1056929d3ea",
+        "6eb9daa8-837f-4908-a540-883334e9fb8a",
+        "6ad253d4-9b73-4fcb-91bd-a029c45172fd"
+      ],
       "settings": {
         "title": ""
       }
