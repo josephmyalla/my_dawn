@@ -1,11 +1,19 @@
 [
+<<<<<<< HEAD
+=======
+
+>>>>>>> c6705be2e487f580d1237c82e25991245fd4e836
   {
     "name": "theme_info",
     "theme_name": "Dawn",
     "theme_version": "10.0.0",
+<<<<<<< HEAD
     "theme_author": "Shopify",
     "theme_documentation_url": "https:\/\/help.shopify.com\/manual\/online-store\/themes",
     "theme_support_url": "https:\/\/support.shopify.com\/"
+=======
+    "theme_author": "Shopify"
+>>>>>>> c6705be2e487f580d1237c82e25991245fd4e836
   },
   {
     "name": "t:settings_schema.logo.name",
@@ -14,6 +22,7 @@
         "type": "image_picker",
         "id": "logo",
         "label": "t:settings_schema.logo.settings.logo_image.label"
+<<<<<<< HEAD
       },
       {
         "type": "range",
@@ -1457,3 +1466,13 @@
     ]
   }
 ]
+=======
+      }
+     
+     
+     ]
+   }
+
+]
+
+>>>>>>> c6705be2e487f580d1237c82e25991245fd4e836

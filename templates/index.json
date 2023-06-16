@@ -1,5 +1,6 @@
 {
   "sections": {
+<<<<<<< HEAD
     "multicolumn": {
       "type": "multicolumn",
       "settings": {
@@ -22,5 +23,13 @@
   },
   "order": [
     "multicolumn"
+=======
+    "main": {
+      "type": "home",
+      "settings": {
+  },
+  "order": [
+    "main"
+>>>>>>> c6705be2e487f580d1237c82e25991245fd4e836
   ]
 }
